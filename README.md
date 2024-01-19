@@ -6,7 +6,7 @@ The data is collected by downloading all the games from my chess.com profile wit
 Data:
 
 The sample data used in the project is downloaded in a pgn file, which then I parsed in my ipynb file python code into an organized dataframe. 
-The pgn file contains my username, oponent username, result, my elo, oponent elo, date, termination of the game (the fashion in which the game ended: by mate, by resignation, by time running out etc.) and moves of the game.
+The pgn file contains my username, oponent username, result, my elo, oponent elo, date, termination of the game (the fashion in which the game ended: by mate, by resignation, by time running out etc.) and moves of the game. The raw data can be reached from the folder named 'chess_games'
 
 Results and Findings: 
 
