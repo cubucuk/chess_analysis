@@ -11,6 +11,6 @@ The pgn file contains my username, oponent username, result, my elo, oponent elo
 Results and Findings: 
 
 From the data analysis, we can see that I have a win rate of about 55%, draw rate of 4% and loss rate of 41%. I won 59% of my games where I played white and 51% of my games where I played black, which is to be expected.
-Advanced analysis of results and findings can be reached from the 'presentation' in the repository. 
+Advanced analysis of results and findings can be reached from the 'report' in the repository. 
 
 Emre Çubukcu
